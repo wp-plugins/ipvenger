@@ -89,3 +89,5 @@ Just go to ipvenger.com and sign up for an account.
 = 0.1 =
 * Beta release.
 
+= 1.0.0 =
+* Initial release
